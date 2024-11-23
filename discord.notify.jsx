@@ -51,5 +51,5 @@ function hook() {
 function getWebhookUrl() {
     const WebhookUrl = ""; // discordのbotから取得
    
-    return WebhookUrl ; // セルF2を取得
+    return WebhookUrl ; 
     }
